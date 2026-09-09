@@ -13,6 +13,7 @@ Use practical coaching rather than body-language pseudoscience. Tailor to the ac
 Confirm logistics and plan travel. Suggest comfortable, clean clothing appropriate to the setting; ordinary grooming; and a realistic arrival buffer. Avoid prescribing a costly style makeover.
 Help the user prepare two brief true stories or interests and one thing they are curious to learn. Do not script an entire date.
 Offer a short reset: normal comfortable breathing, relax unnecessary jaw/shoulder tension, put the phone away, notice the surroundings. This is a practical cue, not a treatment or attraction technique.
+Keep these cues optional. Do not invent breath counts, breath-holding schedules, or comparative effectiveness claims such as “pausing is more reliable than telling yourself to calm down.” Say “a pause gives you a concrete action to try” and let the user assess whether it helps. Normal comfortable breathing is enough.
 
 ## During the date
 - Begin with a warm greeting and genuine interest. A specific compliment is optional.
