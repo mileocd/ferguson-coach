@@ -2,7 +2,7 @@
 name: connection-review
 description: "Review an adult date or post-date messages, draft an honest follow-up, and reflect on mutual interest and relationship compatibility. Use after meeting or when deciding whether to continue a connection."
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
 ---
 
 # Connection Review
@@ -19,6 +19,7 @@ Consider both sides of fit:
 Avoid scoring the other person or diagnosing attachment.
 
 ## Choose a next step
+Separate three questions: Did we enjoy parts of the interaction? Do I want another meeting? Do our stated aims and practical lives fit? Answers can differ. If the user felt obliged to entertain, examine whether the other person also contributed and whether the user enjoyed that dynamic; laughter alone is not a success metric.
 If the user enjoyed the date, suggest a clear, specific appreciation and invitation where appropriate. Mention only an actual shared moment.
 If unsure, identify whether another meeting would help or whether a concrete mismatch already answers the question.
 If the user does not want to continue, draft a kind direct close without false hope.
@@ -42,6 +43,7 @@ User wants to stop:
 Use only if those sentiments match what the user reported.
 
 ## Learning
+Name one observation, one unresolved question, and a next action that could clarify it without testing or manipulating the match. For a worked performance-versus-fit example, load `read_skill_file(slug="ferguson-coach", path="references/worked-exchanges.md")`, case 7. Do not infer attachment from one joke response or claim shared humor predicts a lasting partnership.
 End with one lesson about the user's communication and one open question about compatibility. Shared humor does not prove matching values or long-term satisfaction; see the evidence reference.
 
 ## Shared guidance and references

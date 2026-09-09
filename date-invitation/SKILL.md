@@ -2,7 +2,7 @@
 name: date-invitation
 description: "Help ask an adult match on a date or handle date logistics, a counterproposal, an ambiguous or declined invitation, and an unanswered follow-up. Use when moving from chatting to meeting or resolving plans."
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
 ---
 
 # Date Invitation
@@ -12,6 +12,7 @@ Look for a comfortable reciprocal exchange, an activity hook, or an explicit ope
 Ask about meeting only if it matches the user's intent. Accommodate a preference for more chat or a call first.
 
 ## Make the invitation real
+Separate intent from logistics: first make clear that the user wants to meet; then make a proposal the other person can answer. If a callback hides the invitation, add plain language. If a concrete plan is already accepted, prioritize resolving the missing time or place over producing more chemistry.
 For a first meeting, prefer a simple public setting that fits both people's preferences. Keep logistics and comfort practical rather than turning the invitation into a safety lecture.
 Express interest and suggest a simple activity aligned with known preferences. Use known city and schedule; otherwise ask availability or keep the proposal open. Never invent a venue, reservation, or free evening. Use a shared joke only when it makes the invitation clearer, not as camouflage.
 
@@ -45,6 +46,8 @@ Two unanswered messages after an invitation:
 Recommend no further pursuit. If there is a real imminent reservation or travel commitment, address only necessary logistics.
 
 ## Output
+Distinguish “not this time,” “not ready yet,” and “not interested” using her words. A request to keep talking is not a scheduling problem to solve; a refusal is not an invitation to bargain. If the user wants more certainty than the text allows, recommend a clear invitation or clarification rather than a predicted attraction score.
+For complete response branches, load `read_skill_file(slug="ferguson-coach", path="references/worked-exchanges.md")`, case 4. The branches are practical judgments, not a research-derived schedule.
 A recommended invitation or action, a brief reading of the actual evidence, and one next step. Help the user see asking clearly and accepting the answer as a skill regardless of outcome.
 
 ## Shared guidance and references

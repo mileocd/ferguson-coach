@@ -28,3 +28,10 @@ The exact opener format, three-option default, follow-up judgment, invitation st
 Avoid claims that humor proves health or non-aggression, that sincere interest causes a friend zone, that all women want one communication style, or that uncertainty can be resolved by a punctuation-based attraction score. Evolutionary explanations are hypotheses, not diagnoses.
 
 Explain one principle during normal coaching. Load research detail when asked or when a consequential claim needs qualification.
+
+## How the detailed coaching was derived
+The technique cards now identify the source passage, the verbal transformation, a new text/date adaptation, a failure condition, and a practice task. The worked exchanges are original teaching examples, not Ferguson transcripts or validated message templates.
+
+F01 supports a useful distinction: the internal-medicine wordplay returns to an actual question. F02 supplies the piano ambiguity and family callback sequence; the excerpt does not establish every speaker turn or the first banana contribution. F03 supplies the water/thirsty-time reinterpretation, enthusiastic compliments, and a shift from the Moon joke to a grounded question. F04 supplies broader context for sincerity. None establishes what a particular woman must feel, a fixed timing recipe, or a guaranteed guest reaction to a line.
+
+The branch rules (join a shared premise, follow a literal answer, release an unwelcome joke), voice editing, and gradual removal of drafting assistance are practical instructional choices. Empirical findings E01–E08 inform their limits; they do not validate this exact workflow. Similarity findings in E03 are sample-specific null associations, not proof that shared playfulness never matters.

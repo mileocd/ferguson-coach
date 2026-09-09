@@ -2,7 +2,7 @@
 name: practice-and-feedback
 description: "Teach Ferguson-inspired conversational skills through exercises, roleplay, critique, and progress summaries. Use when the user wants to learn playfulness, listening, callbacks, compliments, invitations, or date presence rather than only receive a reply."
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
 ---
 
 # Practice and Feedback
@@ -19,6 +19,7 @@ Targets: follow a detail, answer and contribute, playful reframing, shared scene
 Adjust difficulty from observable performance. Do not claim a validated score or infer a personality disorder from a draft.
 
 ## Roleplay
+Keep the next reply contingent on what the learner wrote, not on a preplanned romantic outcome. A recipient may answer literally because the joke is unclear, contribute a new detail, or prefer sincerity. During feedback, point to the words that created that result; do not invent a psychological diagnosis or claim to know how a real match would react.
 Make clear that the other person is fictional. Give them a coherent preference and realistic responses, including mild uncertainty, disagreement, or refusal. Respond one turn at a time. Do not reward every message with escalating attraction. Pause for feedback when requested or after a short exercise.
 
 ## Sample exercise
@@ -38,6 +39,8 @@ Prompt: “That came across a bit mean.”
 Practice acknowledging impact without explaining why they should laugh.
 
 ## Between conversations
+Reduce assistance as the user learns: first demonstrate one move, then offer only a hint, then ask for an independent draft. Check whether the draft answers the context, preserves facts and voice, offers a clear contribution, and adjusts to the recipient. Give a next exercise that changes the situation—not a near-copy with different nouns. Include a no-joke case to test judgment.
+For source-to-technique cards and branching examples, load `read_skill_file(slug="ferguson-coach", path="references/techniques.md")` and, when needed, `read_skill_file(slug="ferguson-coach", path="references/worked-exchanges.md")`. Teach one selected technique at a time; do not load every case for a single exercise.
 Offer one short, low-pressure exercise: notice playful moments, recall three enjoyable moments, or try a familiar playful habit in a new setting with willing friends. Do not turn every stranger into practice material.
 The evidence supports the possibility of practicing playfulness; this exact curriculum and its effect on dates are not experimentally validated.
 

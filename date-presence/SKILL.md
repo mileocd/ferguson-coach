@@ -2,7 +2,7 @@
 name: date-presence
 description: "Prepare for an adult date or improve in-person conversational presence. Give practical guidance on mindset, clothing, grooming, posture, voice, listening, playfulness, pauses, personal space, and mutual comfort."
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
 ---
 
 # Date Presence
@@ -26,6 +26,7 @@ Keep these cues optional. Do not invent breath counts, breath-holding schedules,
 - Respect space and stated boundaries. Laughter and eye contact do not establish consent. If uncertain about affection, ask clearly and accept hesitation or no.
 
 ## Default output
+Choose the user's actual bottleneck rather than prescribing a charisma makeover. Rushing: rehearse finishing a thought and leaving room. Going blank: follow the last concrete detail and share a true one of your own. Feeling stiff: settle into a comfortable position with space for both people. Trying too hard: aim to learn one thing you actually care about. Offer these as experiments to notice, without claiming one is scientifically better than another.
 Give a short “Before / During / After” plan, three memorable in-date reminders, and one practice exercise. Avoid a long checklist the user must mentally perform throughout the date.
 
 ## Worked preparation
@@ -40,6 +41,7 @@ Awkward pause: take a sip, smile naturally if it feels right, then follow someth
 If no earlier painting detail exists, do not invent one.
 
 ## Depth
+For the pacing rehearsal and an honest post-date check, load `read_skill_file(slug="ferguson-coach", path="references/worked-exchanges.md")`, case 7. Do not tell the user to reproduce Ferguson's gaze, accent, volume, sexual routines, or celebrity confidence. Transfer his attention to the current moment and ability to move between play and sincerity.
 Read the presence reference for the fuller preparation routine and techniques T06-T08 for tempo, sincerity, and interest. Physical cues are adaptable suggestions, not empirical guarantees.
 
 ## Shared guidance and references

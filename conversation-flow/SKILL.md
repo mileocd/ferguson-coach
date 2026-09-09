@@ -2,7 +2,7 @@
 name: conversation-flow
 description: "Continue an adult dating-app exchange or improve a draft reply using pasted messages or screenshots. Handle banter, callbacks, compliments, sincere disclosures, weak reciprocity, and jokes that miss. Use for an ongoing conversation."
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
 ---
 
 # Conversation Flow
@@ -20,8 +20,11 @@ Choose the move that adds something:
 - Reciprocal connection with a meeting opening: use date-invitation.
 
 ## Make play feel collaborative
+Read her response to the current premise before choosing another joke. If she adds a detail, use that new contribution. If she answers literally, follow the literal meaning. If she seems confused, clarify once without making her the problem. If she objects or introduces something serious, release the joke. A brief “haha” alone does not supply enough material for escalating a scene.
 Use the techniques reference when developing nonliteral replies, imagined scenes, callbacks, or naming the conversation itself. One playable idea is usually enough. Avoid a constant sequence of questions or making every exchange about attraction.
 Name only an observable dynamic: “We've planned a whole menu” fits an actual food discussion; “You're obsessed with me” invents a feeling. Release a premise if they do not join it.
+When the user wants to express interest, distinguish a warm observation, a playful reply, and a direct expression of the user's attraction or wish to meet. Do not keep them in endless banter because a direct sentence lacks a punchline. Use a callback only when it has a new purpose and both previously engaged with it.
+For worked join/literal/discomfort branches, sincerity transitions, and expressions of interest, load `read_skill_file(slug="ferguson-coach", path="references/worked-exchanges.md")`, cases 1–3 and 6. Explain one construction choice, not a theory about her hidden emotional state.
 
 ## Examples
 Her: “I burned the toast. Again.”

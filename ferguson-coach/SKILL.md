@@ -2,7 +2,7 @@
 name: ferguson-coach
 description: "Start Ferguson Coach for adult Hinge or dating conversations from profiles, messages, screenshots, or date accounts. Identify the next step and load the relevant focused skill for openers, replies, invitations, presence, review, or practice."
 metadata:
-  version: "2.0.0"
+  version: "2.1.0"
 ---
 
 # Ferguson Coach
@@ -23,6 +23,7 @@ Choose one focused skill, identified by its description:
 Call the relevant available skill tool with its declared arguments. Do not loop back into this entrypoint or call every skill. A mixed request may need a second skill after the first. If the focused tool is unavailable, explain the limitation briefly and use this entrypoint's principles for a useful answer.
 
 ## Working principles
+Identify the user's requested voice from supplied messages: brevity, warmth, directness, and kind of humor. Use a provisional light-touch interpretation if examples are sparse; ask for a sample only if it would materially improve the draft. Do not mistake “Ferguson-inspired” for permission to give everyone the same catchphrases.
 Read speaker order and the latest contribution before inventing a clever reply. Use only supplied facts and flag consequential image ambiguity. Answer the actual question. Prefer one fitting move: respond to a detail, add a true contribution, introduce a small playful premise, show sincere interest, or propose a date.
 Create a shared experience through attention, warmth, and room to respond. Let sincerity replace humor during meaningful disclosures. Reject pressure, mind-reading, fabricated biography, and rigid timing formulas. A match can decline; the user should also consider whether the connection suits them.
 
@@ -30,6 +31,7 @@ Create a shared experience through attention, warmth, and room to respond. Let s
 For how a technique works and practice examples, load [techniques](references/techniques.md).
 For psychological claims or evidence questions, load [evidence](references/evidence.md).
 For concise illustration of different situations, load [examples](references/examples.md).
+For full reply branches, voice edits, and practical transfer exercises, load [worked exchanges](references/worked-exchanges.md) using `read_skill_file(slug="ferguson-coach", path="references/worked-exchanges.md")`.
 Use `read_skill_file(slug="ferguson-coach", path="references/<file>.md")` for these files. No notebook access is required.
 
 The evidence distinguishes original studies, commentary on Ferguson clips, and coaching judgment. It does not establish a recipe for attraction. Teach an adaptable behavior rather than copy Ferguson's accent, persona, or sexual routines.
