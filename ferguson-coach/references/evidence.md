@@ -1,31 +1,30 @@
-# Evidence and its limits
+# Evidence and interpretation
 
-Research checked 2026-09-08. This skill is an original coaching synthesis, not Ferguson's method or an experimentally validated dating intervention. Fictional examples illustrate decisions; they are not research observations.
+Research reviewed 2026-09-09. This is an original coaching synthesis, not a validated attraction intervention. Empirical findings concern particular samples and measures; fictional examples are original adaptations.
 
-## Ferguson as inspiration
+## Research
+- **E01: Forms of playfulness.** Other-directed, lighthearted, intellectual, and whimsical playfulness describe different tendencies. Playfulness is broader than joke telling or extroversion. [University account of Proyer's structural model](https://pressemitteilungen.pr.uni-halle.de/index.php?modus=pmanzeige&pm_id=2662); definitions also appear in E03/E04.
+- **E02: Partner counts.** A Brazilian observational study reported associations between some playfulness facets and lifetime partner counts. Lightheartedness was not an independent predictor. This does not test message tactics or measure finding a good partner. [de Moraes et al., 2021, abstract and conclusions](https://pmc.ncbi.nlm.nih.gov/articles/PMC10427296/).
+- **E03: Relationship satisfaction.** Findings differ by facet and sample. Researcher reporting on 211 couples and an original study of 116 older couples found that similar playfulness levels did not imply greater satisfaction; some facet associations partly replicated. These are cross-sectional results. [Proyer and Brauer's account](https://spsp.org/news-center/character-context-blog/playfulness-romantic-relationships-love-really-such-easy-game), [Brauer et al., abstract and Discussion](https://doi.org/10.1007/s41042-021-00058-8).
+- **E04: Attachment.** A study of 384 singles, mostly students, found associations with attachment orientations and negligible associations with jealousy. It does not show that playful texts change attachment or reveal a match's attachment style. [Brauer and Proyer, 2026, sections 2 and 4](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1776141/full).
+- **E05: Different meanings of “playful.”** Hall's flirting-style framework concerns patterns and motives; its playful category is not interchangeable with OLIW playfulness. The university report also discusses sincerity and ambiguity in polite communication. [KU account of Hall's work](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles).
+- **E06: Practice.** A randomized online study of 533 participants tested short playfulness exercises and found increases in measured playfulness. It did not test success on dates. Our feedback sequence is an instructional adaptation. [Proyer et al., 2021, abstract](https://opendata.uni-halle.de/bitstream/1981185920/38801/1/aphw.12220.pdf).
 
-- [Ferguson's 2022 interview](https://zoomer.com/the-z-list/2022/09/22/comedian-craig-ferguson-talks-returning-to-the-thrill-of-live-comedy-ahead-of-his-just-for-laughs-shows) emphasizes adapting comedy to context. Transfer: fit this exchange and the user's voice.
-- [Peabody's Tutu episode citation](https://peabodyawards.com/award-profile/the-late-late-show-with-craig-ferguson-an-evening-with-archbishop-desmond-t/) illustrates substantive curiosity. Transfer: allow sincerity and depth.
-- [Official Armchair Expert episode](https://armchairexpertpod.com/pods/craig-ferguson) and [unofficial transcript](https://podscripts.co/podcasts/armchair-expert-with-dax-shepard/craig-ferguson) offer discussion of collaborative play. Transcript details are provisional; original audio was not checked.
-- [Official Stern interview recap](https://www.howardstern.com/show/2017/03/28/craig-ferguson-reveals-he-asked-sharon-stone-out-after-she-was-guest-late-late-show/) distinguishes performance from dating. Public chemistry does not establish private desire.
+## Conversation research retained from the earlier version
+- **E07: Follow the person's contribution.** Huang et al. reported liking benefits from question-asking in introductory conversations; their speed-dating analysis was observational. Keep follow-ups relevant rather than maximizing question count. The record has a 2025 correction, so do not repeat a numerical effect claim from the original unqualified. [Original abstract](https://pubmed.ncbi.nlm.nih.gov/28447835/), [correction record](https://pubmed.ncbi.nlm.nih.gov/40111841/).
+- **E08: Contribute as well as ask.** Sprecher et al. experimentally compared reciprocal with sequential one-sided disclosure in a structured acquaintance task. Reciprocal interaction had more favorable reported outcomes. This supports balanced participation, not forcing personal disclosures or promising the same effect in a dating app. [Publisher abstract](https://www.sciencedirect.com/science/article/pii/S002210311300070X).
 
-## Research supporting or qualifying design choices
+## Ferguson: observable material versus interpretation
+The following are edited analyses or retrospectives, not experiments. Indexed transcripts contain recognition errors; precise timing or body-language claims are not inferred from text.
+- **F01:** Charisma on Command, [How To Never Be Boring In Conversation](https://www.youtube.com/watch?v=SwmJdp-8pg0). Useful locators: fruit association, internal-medicine wordplay, doctor-hair joke, arm compliment, callbacks. Supports the technique illustrations T01/T03/T04, not a required joke frequency.
+- **F02:** [How to Flirt Without Lines](https://www.youtube.com/watch?v=wOXZEBmLYVM). Locators: piano/family imaginary rivalry, miniature-piano ambiguity, conversation about tea, later fruit callback. Useful illustrations of T01-T05; reject narrator claims that deniable innuendo has zero risk or that all compliments need downgrading.
+- **F03:** Charisma on Command, [Women are easily attracted to men who have these habits](https://www.youtube.com/watch?v=8NalcOPBXvs). Published chapters: 0:50 warm openings, 1:53 teasing, 3:59 absurdity, 4:51 flirtation, 10:23 broader sociability, 11:13 posture, 12:02 pauses. Use warmth, shared play, and space; exclude fixed loudness targets, jokes about medical conditions, compulsory touch, and promises of attraction.
+- **F04:** [Observer retrospective](https://observer.com/2014/12/the-empathetic-insanity-of-craig-fergusons-late-late-show/). Interview-format discussion and serious monologues put the humor in a broader context of sincerity.
+- **F05:** [VICE analysis](https://www.vice.com/en/article/how-craig-ferguson-became-a-flirting-god-on-youtube/). Discusses the selection of online clips and limits of copying a celebrity persona.
 
-| Design choice | Evidence | Limit |
-|---|---|---|
-| Relevant follow-ups | [Huang et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28447835/) | Experimental liking findings; dating portion observational. |
-| Consider correction history | [2025 correction](https://pubmed.ncbi.nlm.nih.gov/40111841/), [2019 critique](https://pmc.ncbi.nlm.nih.gov/articles/PMC6857721/), [reply](https://pubmed.ncbi.nlm.nih.gov/31714109/), [critique correction](https://doi.org/10.1037/pspi0000355) | Related records are one evidence family, not replications. |
-| Reciprocal personal contributions | [Sprecher et al., 2013](https://www.sciencedirect.com/science/article/abs/pii/S002210311300070X) | Structured initial-interaction experiment, not a dating-app trial. |
-| Acknowledge volunteered feelings | [Laurenceau et al., 1998](https://doi.org/10.1037/0022-3514.74.5.1238) | Diary associations; no justification for forced disclosure. |
-| Show understanding in context | [West et al., 2025](https://www.nature.com/articles/s44271-025-00342-2) | Listening associations varied by conversation type. |
-| Avoid laughter-based attraction claims | [Hall, 2015](https://journals.sagepub.com/doi/10.1177/1474704915598918), [Wainwright et al., 2024](https://www.storre.stir.ac.uk/handle/1893/35589) | Observational findings differ; no simple causal rule. |
-| Keep interpretations tentative | [KU flirting-detection research account](https://news.ku.edu/news/article/2014/06/03/flirting-hard-detect-study-finds) | College stranger interactions; no text-message classifier. |
-| Offer a meeting without a fixed deadline | [Ramirez et al., 2015](https://academic.oup.com/jcmc/article/20/1/99/4067565) | Retrospective survey; no validated optimum for current apps. |
-| Consider fit and clear intentions | [Hinge dating guidance](https://help.hinge.co/hc/en-us/articles/20084755931027-Dating-Tips) | Platform advice, not causal evidence. |
-| Accept boundaries and propose public meetings | [Hinge boundaries](https://help.hinge.co/hc/en-us/articles/6379915770899-Communicating-and-Obtaining-Consent), [meeting guidance](https://help.hinge.co/hc/en-us/articles/360007194774-Safe-Dating-Advice) | Practical and ethical guidance, not charisma research. |
+## Coaching decisions
+The exact opener format, three-option default, follow-up judgment, invitation structure, clothing/preparation suggestions, and feedback progression are practical choices. No reviewed study validates an optimal message count, joke ratio, response delay, gaze percentage, or voice pitch. Research on established couples does not automatically transfer to initial attraction.
 
-## Coaching choices, not scientific laws
+Avoid claims that humor proves health or non-aggression, that sincere interest causes a friend zone, that all women want one communication style, or that uncertainty can be resolved by a punctuation-based attraction score. Evolutionary explanations are hypotheses, not diagnoses.
 
-One short recommended reply, usually one playful beat, optional alternatives, no invented user facts, one possible follow-up after silence, and a simple public invitation are usability judgments. No source establishes these as optimal word counts, joke ratios, message counts, or timing rules. Do not describe the skill as proven to improve dating success, make someone attracted, or find a lasting partner.
-
-Use the research to explain decisions only when asked. During ordinary coaching, prioritize the actual conversation over theory. Revise guidance if well-designed direct dating-app evidence changes these assumptions.
+Explain one principle during normal coaching. Load research detail when asked or when a consequential claim needs qualification.
